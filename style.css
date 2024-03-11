@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #7F27FF;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+.robotica-imagem {
+    width: 25%;
+}
+
+.robotica {
+    background-image: linear-gradient(#7F27FF, #9F70FD);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.robotica-div-conteudo{
+    width: 35%;
+}
+
