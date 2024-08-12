@@ -73,3 +73,22 @@ body {
         color: white;
         font-size: 25px;
         }
+        @media (max-width:600px){
+            .Profissão:fles;
+            flex-dorection:colomn;
+            align-itens:centes;
+     }
+     .Profissão-divi{
+        width:100%;
+        max-width:300px;
+        margin:10px0;
+     }
+     .Profissão-divi:nth-of-type(1){
+
+     }
+     (max-width:768px){
+        .Profissão-todos{
+            grid-temploate-columns:1fr 1fr;
+            gap:20px;
+        }
+     }
